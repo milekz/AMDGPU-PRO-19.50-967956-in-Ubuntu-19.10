@@ -1,0 +1,2 @@
+# AMDGPU-PRO-19.50-967956-in-Ubuntu-19.10
+How to install AMDGPU-PRO 19.50-967956 in Ubuntu 19.10
